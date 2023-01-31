@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	System.out.println(classA.getAbc());
 	
 	//testing dari Big Boss 
+	//aweeh
 }
 
 }
