@@ -8,6 +8,8 @@ public static void main(String[] args) {
 	
 	TestEclipseIntergration.test.classA classA = new classA("ABCDEF");
 	System.out.println(classA.getAbc());
+	
+	//testing dari Big Boss 
 }
 
 }
